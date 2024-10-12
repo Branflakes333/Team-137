@@ -17,6 +17,7 @@
 -->
 
 #### Hackathon Five CORE Themes.
+
 - [ ] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
 - [ ] Patient satisfaction
@@ -29,6 +30,7 @@
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
 #### Optional Questions.
+
 - [ ] Cultural Competence in Healthcare
 > How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
 - [ ] Access to Care for Rural and Remote Communities
@@ -42,4 +44,3 @@
 #### Team Coordinator GitHub Username: [Branflakes333](https://github.com/Branflakes333)
 
 #### Team Members Brandon Miner, Samantha Velazquez, Danae Pascual, Cristina Rangel Batalla
-
