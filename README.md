@@ -5,7 +5,7 @@
 #### Team Name: HealthCom   
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### We propose an app to facilitate pregnancy appointment tracking, provide maternity ward locations, and health education resources to help pregnant people have safer pregnancy care and birth experiences.  
 
 
 #### A visual
