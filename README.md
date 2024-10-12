@@ -9,7 +9,6 @@
 
 
 ![hackathon.drawio.pdf](https://github.com/Branflakes333/Team-137/edit/main/hackathon.drawio.pdf)
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/Branflakes333/Team-137/edit/main/hackathon.drawio.pdf?raw=true"> 
 
 <!--
 #### Theme: Enhancing Healthcare's Digital Front Door
